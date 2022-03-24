@@ -1,5 +1,6 @@
 
 .idea/
+out/
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/intellij,macos,linux,maven,java
